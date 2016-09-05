@@ -1,0 +1,24 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Test\n\n\nSection 1\n\n\nSection 2", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#test", 
+            "text": "", 
+            "title": "Test"
+        }, 
+        {
+            "location": "/#section-1", 
+            "text": "", 
+            "title": "Section 1"
+        }, 
+        {
+            "location": "/#section-2", 
+            "text": "", 
+            "title": "Section 2"
+        }
+    ]
+}
