@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Test\n\n\nImage  (png)\n\n\n\n\nYouTube Video\n\n\n\n\nCode Block\n\n\ns = \nPython syntax highlighting\n\nprint s\n\n\n\n\nTable\n\n\n\n\n\n\n\n\nColumn 1\n\n\nColumn 2\n\n\nColumn 3\n\n\n\n\n\n\n\n\n\n\n1\n\n\n2\n\n\n3\n\n\n\n\n\n\n4\n\n\n5\n\n\n6\n\n\n\n\n\n\n\n\nHorizontal Rule\n\n\n\n\n\n\n\n\nLinks\n\n\npython code for Raspbery Pi Train Controller", 
+            "text": "Test\n\n\nImage  (png)\n\n\n\n\nYouTube Video\n\n\n\n\nCode Block\n\n\ns = \nPython syntax highlighting\n\nprint s\n\n\n\n\nTable\n\n\n\n\n\n\n\n\nColumn 1\n\n\nColumn 2\n\n\nColumn 3\n\n\n\n\n\n\n\n\n\n\n1\n\n\n2\n\n\n\n\n\n\n\n\n4\n\n\n5\n\n\n6\n\n\n\n\n\n\n\n\nHorizontal Rule\n\n\n\n\n\n\n\n\nLinks\n\n\npython code for Raspbery Pi Train Controller", 
             "title": "Home"
         }, 
         {
@@ -27,7 +27,7 @@
         }, 
         {
             "location": "/#table", 
-            "text": "Column 1  Column 2  Column 3      1  2  3    4  5  6", 
+            "text": "Column 1  Column 2  Column 3      1  2     4  5  6", 
             "title": "Table"
         }, 
         {
